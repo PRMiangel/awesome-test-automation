@@ -107,6 +107,7 @@ Also:
     * [SikuliFactory](https://github.com/marcoslimaqa/sikuli-factory) - A based PageFactory model for SikuliX.
     * [Mailosaur](https://github.com/mailosaur/mailosaur-java) - Java client for email testing/automation via Mailosaur.
     * [TrueAutomation.IO](https://trueautomation.io/) - One of the main tasks of TA is to solve problem of working with unstable locators.
+    * [SHAFT_ENGINE](https://github.com/MohabMohie/SHAFT_ENGINE) - Test Automation Engine that provides a unified high-level interface to any of the underlying test automation frameworks.
 
 ## Mobile test automation
 
